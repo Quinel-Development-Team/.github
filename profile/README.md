@@ -1,1 +1,1 @@
-prova di un readme visibile
+Before to start, please consider to read the Guidelines in this repository.
